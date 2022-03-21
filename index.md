@@ -45,7 +45,7 @@ print(meme)
 
 image_write(meme, path = "meme.png", format = "png")
 
-#--------------------------------#
+# -------------------------------- #
 
 
 
