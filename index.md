@@ -44,3 +44,8 @@ print(meme)
 
 image_write(meme, path = "meme.png", format = "png")
 ```code that made the meme```
+
+
+**This is an original meme made by me**
+
+Motivation of making this meme: I've being a fan of Leo Messi for along time, Messi and C.Ronaldo are the two best footballer in the past 10+ years, I'm making this meme showing people Messi is the real G.O.A.T ( Greatest of all time)
