@@ -43,7 +43,8 @@ meme <- image_append(the_vector, stack = TRUE)
 print(meme)
 
 image_write(meme, path = "meme.png", format = "png")
-```code that made the meme```
+
+# Code that made the meme #
 
 
 **This is an original meme made by me**
