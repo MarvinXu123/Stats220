@@ -45,6 +45,8 @@ print(meme)
 
 image_write(meme, path = "meme.png", format = "png")
 
+#--------------------------------#
+
 
 
 **This is an original meme made by me**
