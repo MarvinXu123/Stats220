@@ -4,7 +4,8 @@
 
 *original picture I've used in to make this meme* : https://upload.wikimedia.org/wikipedia/commons/c/c1/Lionel_Messi_20180626.jpg and https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg
 
-```code that made the meme:```
+# Code that made the meme #
+
 install.packages("magick")
 library(magick)
 
@@ -44,7 +45,6 @@ print(meme)
 
 image_write(meme, path = "meme.png", format = "png")
 
-# Code that made the meme #
 
 
 **This is an original meme made by me**
